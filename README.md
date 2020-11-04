@@ -1,2 +1,3 @@
 # pwsh
-# ./DeployVM.ps1 -csvfile DeployVM.csv -vcenter vcenterName -auto 
+
+./DeployVM.ps1 -csvfile DeployVM.csv -vcenter vcenterName -auto 
